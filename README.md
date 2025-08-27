@@ -53,11 +53,11 @@ DB_NAME=weather
 
 To fetch and insert live weather data:
   ```bash
-  python weather_fetcher.py
+  python app.py
   ```
 To generate weekly reports:
   ```bash
-  python weather_report.py
+  python report.py
   ```
 Matplotlib reports → saved as .png and Plotly reports → saved as interactive .html
 

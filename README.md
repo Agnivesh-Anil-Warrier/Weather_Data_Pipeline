@@ -77,4 +77,10 @@ Matplotlib reports → saved as .png and Plotly reports → saved as interactive
 - [OpenWeather API](https://openweathermap.org/api) – for providing weather data  
 - [Pandas](https://pandas.pydata.org/) – for data handling  
 - [Matplotlib](https://matplotlib.org/) – for visualization  
-- [Plotly](https://plotly.com/python/) – for interactive visualization  
+- [Plotly](https://plotly.com/python/) – for interactive visualization
+
+## Sample
+
+<img width="1593" height="816" alt="image" src="https://github.com/user-attachments/assets/d8a80319-06f7-4c5a-9aba-e28f8f1943fc" />
+<img width="3600" height="3000" alt="weather_report_2025-08-20" src="https://github.com/user-attachments/assets/ac6f094a-5291-4fad-b291-875cd5320643" />
+

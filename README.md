@@ -17,8 +17,7 @@ An end-to-end weather data pipeline that:
 ## ✨ Features
 - 🌍 Fetch live weather for multiple global cities  
 - 🗄️ Store historical weather data in MySQL  
-- 🧹 Data validation (temperature, humidity ranges, etc.)  
-- 📊 Daily parquet exports for analysis pipelines  
+- 🧹 Data validation (temperature, humidity ranges, etc.) 
 - 🖼️ Automated visual reports:  
   - Static PNGs (Matplotlib)  
   - Interactive HTML dashboards (Plotly)  
